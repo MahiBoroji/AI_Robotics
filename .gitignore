@@ -174,4 +174,5 @@ cython_debug/
 
 *.ini 
 desktop.ini
-
+.OTTER_LOG
+.zip
