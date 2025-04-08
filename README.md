@@ -7,3 +7,4 @@ ESE 564 Artificial Intelligence for Robotics
 #### [HW4](HW4) Forward, inverse kinematics and basic pick and place for Panda robot.
 #### [HW5](HW5) Geometric perception, point cloud registration using ICP.
 #### [HW6](HW6) Motion planning and RRT implementation for the Panda robot.
+#### [HW7](HW7) Behavior Cloning using PyTorch.
